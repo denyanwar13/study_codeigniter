@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.colorTheme": "Noctis Minimus",
+    "terminal.integrated.shellArgs.windows": [],
+    "workbench.iconTheme": "material-icon-theme",
+    "update.mode": "manual",
+    "php.validate.executablePath": "C:\\xampp5\\php\\php.exe"
+}
