@@ -4,5 +4,5 @@
     "terminal.integrated.shellArgs.windows": [],
     "workbench.iconTheme": "material-icon-theme",
     "update.mode": "manual",
-    "php.validate.executablePath": "C:\\xampp5\\php\\php.exe"
+    "php.validate.executablePath": "C:\\xampp5\\php\\php.exe",
 }
