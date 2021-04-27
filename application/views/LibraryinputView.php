@@ -24,6 +24,7 @@
           <hr>
           <h2>Komentar Anda</h2>";
 
+    // Berfungsi agar tidak ada error saat data belum ada
     if (isset($_POST['nama'])) {
         echo "Nama : " . $_POST['nama'] . "<br />";
     } else {

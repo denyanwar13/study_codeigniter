@@ -10,6 +10,7 @@ class LibraryInput extends CI_Controller {
             echo"Komentar :" . $this->input->post("komentar");
         }
 
+        // Memanggil LibraryinputView pada folder views
         $this->load->view("LibraryinputView");
     }
 
